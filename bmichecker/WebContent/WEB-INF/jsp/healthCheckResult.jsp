@@ -10,6 +10,7 @@
 <body>
 <h1>BMI・基礎代謝量判定の結果</h1>
 <p>
+あなたの結果は・・・
 身長：${health.height}cm<br>
 体重：${health.getWeight}kg<br>
 性別：${health.getGender}<br>
